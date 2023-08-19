@@ -50,3 +50,4 @@ git stash pop
 git stash pop stash{id}
 26) TO copy specific commit to other branch
 git cherry-pick <commit_id>
+27)
