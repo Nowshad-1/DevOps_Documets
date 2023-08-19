@@ -108,4 +108,4 @@ echo "hello world"
 
 #!/bin/bash
 STRING="hello world"
-echo $STRING.
+echo $STRING.........
